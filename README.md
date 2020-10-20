@@ -10,7 +10,7 @@
 </a>
 
 <br><br><br><br><br><br><br><br><br>
-## **More Aboute Me**
+## 📋  **More Aboute Me**
 
 > I'm a junior JavaScript full-stack developer
 >focused in ReactJS, React Native and NodeJS. Student
@@ -19,3 +19,9 @@
 >to play with Arduino. Still JR in some ways, but
 >working very hard to become a fully complete
 >programmer.
+
+## 🛠 **Main Languages**
+[![Build Status]
+(https://img.shields.io/github/languages/top/thomaslnx/NodeJSFundamentalsTypeORM)]
+
+https://img.shields.io/badge/JavaScript-script-brightgreen
