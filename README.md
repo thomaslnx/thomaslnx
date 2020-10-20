@@ -23,16 +23,38 @@
 ## 🛠 **Main Languages**
 
 &nbsp;
-![](https://img.shields.io/badge/JavaScript-script-yellow)
+![](https://img.shields.io/badge/JavaScript-script-yellow?style=flat-square&logo=javascript)
 &nbsp;
-![](https://img.shields.io/badge/TypeScript-script-blue)
+![](https://img.shields.io/badge/TypeScript-script-blue?style=flat-square&logo=TypeScript)
 &nbsp;
-![](https://img.shields.io/badge/CSS3-style-blue)
+![](https://img.shields.io/badge/CSS3-style-blue?style=flat-square&logo=CSS3)
 &nbsp;
-![](https://img.shields.io/badge/HTML5-markup-yellow)
+![](https://img.shields.io/badge/HTML5-markup-yellow?style=flat-square&logo=HTML5)
 &nbsp;
-![](https://img.shields.io/badge/ReactJS-framework-blue)
+![](https://img.shields.io/badge/ReactJS-framework-blue?style=flat-square&logo=react)
 &nbsp;
-![](https://img.shields.io/badge/React%20Native-framework-blue)
+![](https://img.shields.io/badge/React%20Native-framework-blue?style=flat-square&logo=react)
 &nbsp;
-![](https://img.shields.io/badge/NodeJS-runtime-green)
+![](https://img.shields.io/badge/NodeJS-runtime-green?style=flat-square&logo=node.js)
+
+## 🛠 **Tools**
+
+- VSCode;
+- Vim (no much as before 😢 );
+- Docker;
+- Insomnia;
+- Postico;
+- Postbird;
+- Reactotron;
+- Notion;
+- DevDocs;
+- And others;
+
+## 🌎 **Where to find me**
+<br>
+
+[<img src="https://img.shields.io/badge/Linkedin-Marcos--Moura%20Linkedin-blue"/>][linkedin]
+
+
+
+[linkedin]: https://www.linkedin.com/in/marcos-de-moura-silva/
