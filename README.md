@@ -1,4 +1,4 @@
-<img src="assets/GitReadme.png" align="left" height="600" />
+<img src="assets/GitReadme.png" align="center" height="600" />
 
 [![Marcos Moura's github stats](https://github-readme-stats.vercel.app/api?username=thomaslnx&show_icons=true&theme=radical)](https://github.com/thomaslnx/github-readme-stats)
 
