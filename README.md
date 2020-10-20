@@ -2,14 +2,13 @@
 
 <br>
 
-<div>
 <a href="https://github.com/thomaslnx">
 <img width="400" align="left" src="https://github-readme-stats.vercel.app/api?username=thomaslnx&show_icons=true&theme=radical" /></a>
 
 <a href="https://github.com/thomaslnx/github-readme-stats">
 <img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=thomaslnx&layout=compact&theme=blue-green" /> </a>
-</div>
 
+<br>
 ## More about me
 <!--
 **thomaslnx/thomaslnx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
