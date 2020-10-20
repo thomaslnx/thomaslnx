@@ -1,4 +1,4 @@
-<img src="assets/GitReadme.png" align="center" height="600" />
+<img src="assets/GitReadme.png" align="center" height="500" />
 
 <br>
 
@@ -10,4 +10,4 @@
 </a>
 
 <br><br><br><br><br><br><br><br><br>
-## More Aboute Me.
+## **More Aboute Me**
