@@ -21,7 +21,17 @@
 >programmer.
 
 ## 🛠 **Main Languages**
-[![Build Status]
-(https://img.shields.io/github/languages/top/thomaslnx/NodeJSFundamentalsTypeORM)]
 
-https://img.shields.io/badge/JavaScript-script-brightgreen
+&nbsp; &nbsp; ![](https://img.shields.io/badge/JavaScript-script-yellow)
+&nbsp;
+![](https://img.shields.io/badge/TypeScript-script-blue)
+&nbsp;
+![](https://img.shields.io/badge/CSS3-style-blue)
+&nbsp;
+![](https://img.shields.io/badge/HTML5-markup-yellow)
+&nbsp;
+![](https://img.shields.io/badge/ReactJS-framework-blue)
+&nbsp;
+![](https://img.shields.io/badge/React%20Native-framework-blue)
+&nbsp;
+![](https://img.shields.io/badge/NodeJS-runtime-green)
