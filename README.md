@@ -22,7 +22,8 @@
 
 ## 🛠 **Main Languages**
 
-&nbsp; &nbsp; ![](https://img.shields.io/badge/JavaScript-script-yellow)
+&nbsp;
+![](https://img.shields.io/badge/JavaScript-script-yellow)
 &nbsp;
 ![](https://img.shields.io/badge/TypeScript-script-blue)
 &nbsp;
