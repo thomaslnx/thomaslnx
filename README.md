@@ -53,8 +53,16 @@
 ## 🌎 **Where to find me**
 <br>
 
-[<img src="https://img.shields.io/badge/Linkedin-Marcos--Moura%20Linkedin-blue"/>][linkedin]
+[<img src="https://img.shields.io/badge/Linkedin-Marcos--Moura%20Linkedin-blue" />][linkedin]
+<br>
+[<img src="https://img.shields.io/badge/Gmail-Marcos%20Email-red" />][gmail]
+<br>
+[<img src="https://img.shields.io/badge/Twitter-Marcos%20Twitter-blue"/>][twitter]
+<br>
+[<img src="https://img.shields.io/badge/stackoverflow-Marcos%20StackOverflow-orange" />][stackoverflow]
 
-
-
+<!-- Definition for links -->
 [linkedin]: https://www.linkedin.com/in/marcos-de-moura-silva/
+[twitter]: https://twitter.com/thomaslnx
+[gmail]: mailto:marcos.msilva10@gmail.com
+[stackoverflow]: https://stackoverflow.com/users/14361338/marcos-moura
