@@ -1,16 +1,7 @@
-<img src="assets/PeanutsGitAvatar.jpg" align="left" height="500" />
+<img src="assets/GitReadme.png" align="left" height="500" />
 
-```
-let name='Marcos Moura';
-let position='Junior JavaScript Full Stack Developer';
+[![Marcos Moura's github stats](https://github-readme-stats.vercel.app/api?username=thomaslnx&show_icons=true&theme=radical)](https://github.com/thomaslnx/github-readme-stats)
 
-function action(user, job) {
-  console.log(user, job);
-}
-
-action(name, position);
-
-```
 <!--
 **thomaslnx/thomaslnx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
