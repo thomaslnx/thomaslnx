@@ -1,5 +1,16 @@
-### Hi there 👋
+<img src="assets/PeanutsGitAvatar.jpg" align="left" height="500" />
 
+```
+let name='Marcos Moura';
+let position='Junior JavaScript Full Stack Developer';
+
+function action(user, job) {
+  console.log(user, job);
+}
+
+action(name, position);
+
+```
 <!--
 **thomaslnx/thomaslnx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
