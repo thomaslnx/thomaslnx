@@ -1,4 +1,4 @@
-<img src="assets/GitReadme.png" align="center" width="100%" />
+<!-- <img src="assets/GitReadme.png" align="center" width="100%" /> -->
 
 <br>
 
