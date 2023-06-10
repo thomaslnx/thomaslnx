@@ -37,11 +37,8 @@
 <br>
 
 [<img src="https://img.shields.io/badge/Linkedin-Marcos--Moura%20Linkedin-blue" />][linkedin]
-<br>
 [<img src="https://img.shields.io/badge/Gmail-Marcos%20Email-red" />][gmail]
-<br>
 [<img src="https://img.shields.io/badge/Twitter-Marcos%20Twitter-blue"/>][twitter]
-<br>
 
 [linkedin]: https://www.linkedin.com/in/marcos-de-moura-silva/
 [twitter]: https://twitter.com/thomaslnx
