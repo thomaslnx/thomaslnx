@@ -35,10 +35,10 @@
 
 ## 🌎 **Where to find me**
 <br />
-[[<img src="https://img.shields.io/badge/Linkedin-Marcos--Moura%20Linkedin-blue" />][linkedin]]
+[<img src="https://img.shields.io/badge/Linkedin-Marcos--Moura%20Linkedin-blue" />][linkedin]
 [<img src="https://img.shields.io/badge/Gmail-Marcos%20Email-red" />][gmail]
 [<img src="https://img.shields.io/badge/Twitter-Marcos%20Twitter-blue"/>][twitter]
 
-[linkedin]: https://www.linkedin.com/in/marcos-de-moura-silva/
+[linkedin]: (https://www.linkedin.com/in/marcos-de-moura-silva/)
 [twitter]: https://twitter.com/thomaslnx
 [gmail]: mailto:marcos.msilva10@gmail.com
