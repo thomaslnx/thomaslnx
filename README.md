@@ -12,9 +12,8 @@
 <br><br><br><br><br><br><br><br><br>
 ## 📋  **More Aboute Me**
 
-> I'm a junior JavaScript full-stack developer
->focused in ReactJS, React Native and NodeJS. Student
->on Rocketseat. Also, i like to learn somethings
+> I'm a JavaScript Full-Stack Engineer
+>experienced in ReactJS, NextJS, NodeJS, TypeScript, GraphQL, REST Api. Also, I like to learn somethings
 >besides that ones which I work like C language and
 >to play with Arduino. Still JR in some ways, but
 >working very hard to become a fully complete
