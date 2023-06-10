@@ -34,8 +34,7 @@
 - RestAPI;
 
 ## 🌎 **Where to find me**
-<br>
-
+<br />
 [<img src="https://img.shields.io/badge/Linkedin-Marcos--Moura%20Linkedin-blue" />][linkedin]
 [<img src="https://img.shields.io/badge/Gmail-Marcos%20Email-red" />][gmail]
 [<img src="https://img.shields.io/badge/Twitter-Marcos%20Twitter-blue"/>][twitter]
