@@ -11,9 +11,9 @@
 ## 📋  **More Aboute Me**
 
 > I'm a JavaScript Full-Stack Engineer
->experienced in ReactJS, NextJS, NodeJS, TypeScript, GraphQL, REST Api. Also, I like to learn somethings
->besides that ones which I work like C language and
->to play with Arduino. I have experience working asynchronous with international team using english as main language.
+>experienced in ReactJS, NextJS, NodeJS, TypeScript, GraphQL, REST Api. Also, I like to learn some things
+>besides that ones which I working, like C language
+>to play along with Arduino. I have experience working asynchronously with international team using english as main language.
 
 ## 🛠 **Main Languages**
 
