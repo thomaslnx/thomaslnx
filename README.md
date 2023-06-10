@@ -15,12 +15,9 @@
 > I'm a JavaScript Full-Stack Engineer
 >experienced in ReactJS, NextJS, NodeJS, TypeScript, GraphQL, REST Api. Also, I like to learn somethings
 >besides that ones which I work like C language and
->to play with Arduino. Still JR in some ways, but
->working very hard to become a fully complete
->programmer.
+>to play with Arduino. I have experience working asynchronous with international team using english as main language.
 
 ## 🛠 **Main Languages**
-
 
 ![](https://img.shields.io/badge/JavaScript-script-yellow?style=flat-square&logo=javascript) <br>
 ![](https://img.shields.io/badge/TypeScript-script-blue?style=flat-square&logo=TypeScript) <br>
@@ -32,16 +29,12 @@
 
 ## 🛠 **Tools**
 
-- VSCode;
-- Vim (no much as before 😢 );
+- Docker-Compose;
 - Docker;
-- Insomnia;
-- Postico;
-- Postbird;
-- Reactotron;
-- Notion;
-- DevDocs;
-- And others;
+- MongoDB;
+- PostgreSQL;
+- GraphQL;
+- RestAPI;
 
 ## 🌎 **Where to find me**
 <br>
@@ -52,10 +45,7 @@
 <br>
 [<img src="https://img.shields.io/badge/Twitter-Marcos%20Twitter-blue"/>][twitter]
 <br>
-[<img src="https://img.shields.io/badge/stackoverflow-Marcos%20StackOverflow-orange" />][stackoverflow]
 
-<!-- Definition for links -->
 [linkedin]: https://www.linkedin.com/in/marcos-de-moura-silva/
 [twitter]: https://twitter.com/thomaslnx
 [gmail]: mailto:marcos.msilva10@gmail.com
-[stackoverflow]: https://stackoverflow.com/users/14361338/marcos-moura
