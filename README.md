@@ -17,11 +17,11 @@
 
 ## 🛠 **Main Languages**
 
-![](https://img.shields.io/badge/JavaScript-script-yellow?style=flat-square&logo=javascript) `&nbsp`
-![](https://img.shields.io/badge/TypeScript-script-blue?style=flat-square&logo=TypeScript) `&nbsp`
-![](https://img.shields.io/badge/CSS3-style-blue?style=flat-square&logo=CSS3) `&nbsp`
-![](https://img.shields.io/badge/HTML5-markup-yellow?style=flat-square&logo=HTML5) `&nbsp`
-![](https://img.shields.io/badge/ReactJS-framework-blue?style=flat-square&logo=react) `&nbsp`
+![](https://img.shields.io/badge/JavaScript-script-yellow?style=flat-square&logo=javascript) 
+![](https://img.shields.io/badge/TypeScript-script-blue?style=flat-square&logo=TypeScript) 
+![](https://img.shields.io/badge/CSS3-style-blue?style=flat-square&logo=CSS3) 
+![](https://img.shields.io/badge/HTML5-markup-yellow?style=flat-square&logo=HTML5) 
+![](https://img.shields.io/badge/ReactJS-framework-blue?style=flat-square&logo=react) 
 ![](https://img.shields.io/badge/NodeJS-runtime-green?style=flat-square&logo=node.js)
 
 ## 🛠 **Tools**
