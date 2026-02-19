@@ -28,7 +28,7 @@
 
 | Package                                                                           | Downloads                                                                   | Description                                                                                                                                                                                                                                |
 | --------------------------------------------------------------------------------- | --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-
+| [`@thomaslnx/graphql-json-scalar-ts`](https://www.npmjs.com/package/@thomaslnx/graphql-json-scalar-ts)                                | ![npm downloads](https://img.shields.io/npm/dm/@thomaslnx/graphql-json-scalar-ts.svg)](https://www.npmjs.com/package/@thomaslnx/graphql-json-scalar-ts)           | A production-ready GraphQL JSON scalar with excellent TypeScript support.                                                                                                                                                                                              |
 ## 🛠 **Tools**
 
 - Docker-Compose;
