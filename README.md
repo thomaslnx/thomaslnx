@@ -8,14 +8,12 @@
 </a>
 
 <br><br><br><br><br><br><br><br><br>
-## 📋  **More Aboute Me**
+## 🖥️  **Hey, nice to meet you, I'm Marcos**
 
-> I'm a JavaScript Full-Stack Engineer
->experienced in ReactJS, NextJS, NodeJS, TypeScript, GraphQL, REST API's. Also, I like to learn some things
->besides the ones which I working on, like C language,
->to play around with Arduino. I have experience working asynchronously with international teams using english as the main language.
+I'm a seasoned Full-Stack Software Engineer
+working with ReactJS/NextJS, NodeJS, TypeScript, GraphQL, REST, Docker, AWS, and more.
 
-## 🛠 **Main Languages**
+## 🛠 **Main Languages/Frameworks**
 
 ![](https://img.shields.io/badge/JavaScript-script-yellow?style=flat-square&logo=javascript) 
 ![](https://img.shields.io/badge/TypeScript-script-blue?style=flat-square&logo=TypeScript) 
@@ -29,14 +27,6 @@
 | Package                                                                           | Downloads                                                                   | Description                                                                                                                                                                                                                                |
 | --------------------------------------------------------------------------------- | --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | [`@thomaslnx/graphql-json-scalar-ts`](https://www.npmjs.com/package/@thomaslnx/graphql-json-scalar-ts)                                | ![npm downloads](https://img.shields.io/npm/dm/@thomaslnx/graphql-json-scalar-ts.svg)           | A production-ready GraphQL JSON scalar with excellent TypeScript support.                                                                                                                                                                                              |
-## 🛠 **Tools**
-
-- Docker-Compose;
-- Docker;
-- MongoDB;
-- PostgreSQL;
-- GraphQL;
-- RestAPI;
 
 <!-- ## 🌎 **Where to find me**
 <br />
